@@ -1,1 +1,3 @@
-# zsh-theme
+# .zsh-setup
+
+## Personal .zsh setup
